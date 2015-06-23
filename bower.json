@@ -1,0 +1,19 @@
+{
+  "name": "FC_polymer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/johnegotta/FC_polymer",
+  "authors": [
+    "John Gotta <johnegotta@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
